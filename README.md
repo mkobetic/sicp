@@ -1,4 +1,7 @@
-sicp
-====
+# sicp exercises
 
-SICP exercises
+Exercise solutions
+
+## License
+
+Public Domain
